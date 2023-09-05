@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkalgo=self.webpackChunkalgo||[]).push([[195],{2841:(e,t,a)=>{a.r(t),a.d(t,{default:()=>r});var l=a(7294),n=a(6550);function r(){return l.createElement(n.l_,{to:"/intro"})}}}]);
