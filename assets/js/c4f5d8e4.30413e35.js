@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalgo=self.webpackChunkalgo||[]).push([[195],{2841:(e,a,r)=>{r.r(a),r.d(a,{default:()=>n});var t=r(7294),l=r(6550);function n(){return t.createElement(l.l_,{to:"/binary-search"})}}}]);
